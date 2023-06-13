@@ -9,7 +9,7 @@ We studied the intra and inter-group interactions that ensue as Spix’s disc-wi
 
 ## Data
 * [Data for checking and enter/exit roost](data1.csv)
-* [Data for species](data2.csv)
+* [Data for number of aggressive vocalizations](data2.csv)
 * [Acoustic data for distress and aggressive calls](Vocal_analysis.csv)
 
 ## Analyses
