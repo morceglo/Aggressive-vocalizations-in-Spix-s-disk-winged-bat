@@ -9,11 +9,13 @@ We studied the intra and inter-group interactions that ensue as Spix’s disc-wi
 
 ## Data
 * [Data summarized](data1.csv)
-* [Data for species](https://github.com/morceglo/Monofilament-nets-for-bats/blob/3f61012f00261bba699fcf7abf8c4580e8af15d8/Species.xlsx)
+* [Data for species](data2.csv)
+* [Acoustic data for distress and aggressive calls](Vocal_analysis.csv)
 
 ## Analyses
 
-* [Statistical analysis](https://github.com/morceglo/Monofilament-nets-for-bats/blob/main/MF%20nets%20bats.R)
+* [Statistical analysis](Analysis.R)
+* [Statistical analysis](Vocal_analysis.R)
 
 ## Status
 Project is: In revision at Ethology
