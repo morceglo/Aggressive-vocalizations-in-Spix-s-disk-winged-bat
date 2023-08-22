@@ -18,7 +18,7 @@ We studied the intra and inter-group interactions that ensue as Spix’s disc-wi
 * [Analyses to test differences between distress and aggressive calls](Vocal_analysis.R)
 
 ## Status
-Project is: In revision at Ethology
+Project is: Accepted at Ethology (https://doi.org/10.1111/eth.13391)
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
